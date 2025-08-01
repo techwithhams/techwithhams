@@ -76,5 +76,6 @@ I also love:
 - Portfolio: *(Optional, future link)*  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&pause=1000&speed=70&color=FFB6C1&center=true&vCenter=true&repeat=true&width=500&lines=I+also+love+☕+Coffee;I+also+love+🐱+Cats;I+also+love+📚+Books;I+also+love+🎨+Painting;I+also+love+💍+Making+Jewelry" alt="Typing Footer SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=26&pause=500&color=FFB6C1&center=true&vCenter=true&width=600&lines=I+also+love+☕+Coffee;I+also+love+🐱+Cats;I+also+love+📚+Books;I+also+love+🎨+Painting;I+also+love+💍+Making+Jewelry" alt="Typing SVG" />
 </p>
+
