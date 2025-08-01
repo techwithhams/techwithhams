@@ -29,13 +29,14 @@ Now channeling my creativity and analytical thinking into the world of **data an
 ## 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/354381/sqlite.svg" alt="SQLite" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/353949/jupyter.svg" alt="Jupyter" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/355133/mysql.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303193/microsoft-excel-2013-logo.svg" alt="Excel" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="60" height="60"/>
+  <img src="https://www.svgrepo.com/show/354381/sqlite.svg" alt="SQLite" width="60" height="60"/>
+  <img src="https://www.svgrepo.com/show/353949/jupyter.svg" alt="Jupyter" width="60" height="60"/>
+  <img src="https://www.svgrepo.com/show/355133/mysql.svg" alt="MySQL" width="60" height="60"/>
+  <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" width="60" height="60"/>
+  <img src="https://www.svgrepo.com/show/303193/microsoft-excel-2013-logo.svg" alt="Excel" width="60" height="60"/>
 </p>
+
 
 
 ---
