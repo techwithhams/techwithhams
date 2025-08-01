@@ -22,11 +22,12 @@ Now channeling my creativity and analytical thinking into the world of **data an
 
 ---
 
-## 🧰 Tech Stack
+🧰 Tech Stack
+Languages & Tools I use in my projects:
 
-**Languages**: SQL, Python, DAX, HTML/CSS (basics)  
-**Tools**: Power BI, Excel, SQLite, MS SQL Server, Jupyter Notebook, PowerPoint  
-**Skills**: Data Cleaning, EDA, RFM Segmentation, Data Modeling, Dashboard Design
+SQL · Python · Power BI · Excel · DAX · SQLite · Jupyter Notebook · PowerPoint
+
+<p align="left"> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white" alt="SQL Badge"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge"/> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Badge"/> <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Badge"/> <img src="https://img.shields.io/badge/DAX-020202?style=flat&logo=data%3Aimage%2Fsvg%2Bxml;base64&logoColor=white" alt="DAX Badge"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite Badge"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white" alt="Jupyter Badge"/> <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint Badge"/> </p>
 
 ---
 
