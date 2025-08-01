@@ -84,11 +84,11 @@ Now channeling my creativity and analytical thinking into the world of **data an
 
 ---
 
-## ✨ Fun Facts
+<h2 align="center">✨ Fun Facts</h2>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=500&color=00FFD0&center=true&vCenter=true&width=600&lines=I+also+love+☕+Coffee;I+also+love+🐱+Cats;I+also+love+📚+Books;I+also+love+🎨+Painting;I+also+love+💍+Making+Jewelry" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=500&color=00FFD0&center=true&vCenter=true&repeat=true&width=700&lines=I+also+love+☕+Coffee;I+also+love+🐱+Cats;I+also+love+📚+Books;I+also+love+🎨+Painting;I+also+love+💍+Making+Jewelry" 
     alt="Typing SVG" 
   />
 </p>
