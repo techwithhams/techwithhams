@@ -30,23 +30,28 @@ Now channeling my creativity and analytical thinking into the world of **data an
 
 ---
 
-## 📂 Portfolio Projects
+<p align="center">
+  <a href="https://github.com/techwithhams/Olist-Ecommerce-Analysis">
+    <img src="https://github.com/techwithhams/Olist-Ecommerce-Analysis/blob/main/preview/olist-thumb.png?raw=true" width="180" alt="Olist Project"/><br>
+    <b>Olist E-Commerce Sales</b>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/techwithhams/Northwind-Sales-Project">
+    <img src="https://github.com/techwithhams/Northwind-Sales-Project/blob/main/preview/northwind-thumb.png?raw=true" width="180" alt="Northwind Project"/><br>
+    <b>Northwind Sales Analysis</b>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/techwithhams/bikeshare-analysis">
+    <img src="https://github.com/techwithhams/bikeshare-analysis/blob/main/preview/bikeshare-thumb.png?raw=true" width="180" alt="Bikeshare CLI App"/><br>
+    <b>US Bikeshare CLI App</b>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/techwithhams/no-show-appointments-analysis">
+    <img src="https://github.com/techwithhams/no-show-appointments-analysis/blob/main/preview/noshow-thumb.png?raw=true" width="180" alt="No-Show EDA"/><br>
+    <b>No-Show Appointments EDA</b>
+  </a>
+</p>
 
-### 🔸 [Olist E-Commerce Sales Analysis](https://github.com/techwithhams/Olist-Ecommerce-Analysis)  
-*SQL Server + Power BI + PowerPoint*  
-End-to-end analysis of customer behavior, payments, delivery patterns, and product performance in Brazil’s top marketplace.
-
-### 🔸 [Northwind Sales Analysis](https://github.com/techwithhams/Northwind-Sales-Project)  
-*SQLite + Power BI*  
-Comprehensive B2B sales analysis with customer segmentation, seasonal trends, and supplier/employee insights.
-
-### 🔸 [US Bikeshare CLI App](https://github.com/techwithhams/bikeshare-analysis)  
-*Python + pandas*  
-Interactive command-line tool for filtering and analyzing bikeshare data across 3 US cities.
-
-### 🔸 [No-Show Appointments EDA](https://github.com/techwithhams/no-show-appointments-analysis)  
-*Python + Jupyter Notebook*  
-Exploratory data analysis on healthcare appointment data to identify what drives no-shows.
 
 ---
 
