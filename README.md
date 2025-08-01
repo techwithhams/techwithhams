@@ -22,12 +22,18 @@ Now channeling my creativity and analytical thinking into the world of **data an
 
 ---
 
-🧰 Tech Stack
-Languages & Tools I use in my projects:
+## 🧰 Tech Stack
 
-SQL · Python · Power BI · Excel · DAX · SQLite · Jupyter Notebook · PowerPoint
+| Tool | Icon |
+|------|------|
+| SQL Server | <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="30"/> |
+| Python | <img src="https://www.svgrepo.com/show/349419/python.svg" width="30"/> |
+| Power BI | <img src="https://www.svgrepo.com/show/373595/power-bi.svg" width="30"/> |
+| Excel | <img src="https://www.svgrepo.com/show/452217/excel.svg" width="30"/> |
+| SQLite | <img src="https://www.svgrepo.com/show/354202/sqlite.svg" width="30"/> |
+| Jupyter | <img src="https://www.svgrepo.com/show/354428/jupyter.svg" width="30"/> |
+| PowerPoint | <img src="https://www.svgrepo.com/show/452209/powerpoint.svg" width="30"/> |
 
-<p align="left"> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white" alt="SQL Badge"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge"/> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Badge"/> <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Badge"/> <img src="https://img.shields.io/badge/DAX-020202?style=flat&logo=data%3Aimage%2Fsvg%2Bxml;base64&logoColor=white" alt="DAX Badge"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite Badge"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white" alt="Jupyter Badge"/> <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint Badge"/> </p>
 
 ---
 
