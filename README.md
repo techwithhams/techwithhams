@@ -3,7 +3,7 @@
 <h3 align="center">Hi there, I'm Hams 👋</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FFD0&vCenter=true&center=true&width=650&lines=Data+Analyst+📊;SQL+Enthusiast+🧮;Python+Learner+🐍;Dashboard+Designer+📈;Excel+Specialist+📊" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FFD0&center=true&vCenter=true&width=650&lines=Data+Analyst;SQL+Enthusiast;Python+Learner;Dashboard+Designer;Excel+Specialist" alt="Typing SVG" />
 </p>
 
 
