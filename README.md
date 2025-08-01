@@ -101,6 +101,6 @@ Now channeling my creativity and analytical thinking into the world of **data an
 - Portfolio: *(Optional, future link)*  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=26&pause=500&color=FFB6C1&center=true&vCenter=true&width=600&lines=I+also+love+☕+Coffee;I+also+love+🐱+Cats;I+also+love+📚+Books;I+also+love+🎨+Painting;I+also+love+💍+Making+Jewelry" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=500&color=00FFD0&center=true&vCenter=true&width=600&lines=I+also+love+☕+Coffee;I+also+love+🐱+Cats;I+also+love+📚+Books;I+also+love+🎨+Painting;I+also+love+💍+Making+Jewelry" alt="Typing SVG" />
 </p>
 
