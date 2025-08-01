@@ -24,15 +24,16 @@ Now channeling my creativity and analytical thinking into the world of **data an
 
 ## 🧰 Tech Stack
 
-| Tool | Icon |
-|------|------|
-| SQL Server | <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="30"/> |
-| Python | <img src="https://www.svgrepo.com/show/349419/python.svg" width="30"/> |
-| Power BI | <img src="https://www.svgrepo.com/show/373595/power-bi.svg" width="30"/> |
-| Excel | <img src="https://www.svgrepo.com/show/452217/excel.svg" width="30"/> |
-| SQLite | <img src="https://www.svgrepo.com/show/354202/sqlite.svg" width="30"/> |
-| Jupyter | <img src="https://www.svgrepo.com/show/354428/jupyter.svg" width="30"/> |
-| PowerPoint | <img src="https://www.svgrepo.com/show/452209/powerpoint.svg" width="30"/> |
+<p align="left">
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="30" alt="SQL Server"/>
+  <img src="https://www.svgrepo.com/show/349419/python.svg" width="30" alt="Python"/>
+  <img src="https://www.svgrepo.com/show/373595/power-bi.svg" width="30" alt="Power BI"/>
+  <img src="https://www.svgrepo.com/show/452217/excel.svg" width="30" alt="Excel"/>
+  <img src="https://www.svgrepo.com/show/354202/sqlite.svg" width="30" alt="SQLite"/>
+  <img src="https://www.svgrepo.com/show/354428/jupyter.svg" width="30" alt="Jupyter"/>
+  <img src="https://www.svgrepo.com/show/452209/powerpoint.svg" width="30" alt="PowerPoint"/>
+</p>
+
 
 
 ---
