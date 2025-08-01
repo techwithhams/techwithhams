@@ -41,27 +41,37 @@ Now channeling my creativity and analytical thinking into the world of **data an
 
 ---
 
-<p align="center">
-  <a href="https://github.com/techwithhams/Olist-Ecommerce-Analysis">
-    <img src="https://github.com/techwithhams/Olist-Ecommerce-Analysis/blob/main/preview/olist-thumb.png?raw=true" width="180" alt="Olist Project"/><br>
-    <b>Olist E-Commerce Sales</b>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/techwithhams/Northwind-Sales-Project">
-    <img src="https://github.com/techwithhams/Northwind-Sales-Project/blob/main/preview/northwind-thumb.png?raw=true" width="180" alt="Northwind Project"/><br>
-    <b>Northwind Sales Analysis</b>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/techwithhams/bikeshare-analysis">
-    <img src="https://github.com/techwithhams/bikeshare-analysis/blob/main/preview/bikeshare-thumb.png?raw=true" width="180" alt="Bikeshare CLI App"/><br>
-    <b>US Bikeshare CLI App</b>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/techwithhams/no-show-appointments-analysis">
-    <img src="https://github.com/techwithhams/no-show-appointments-analysis/blob/main/preview/noshow-thumb.png?raw=true" width="180" alt="No-Show EDA"/><br>
-    <b>No-Show Appointments EDA</b>
-  </a>
-</p>
+## 📂 Featured Projects
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/techwithhams/Olist-Ecommerce-Analysis">
+        <img src="https://raw.githubusercontent.com/techwithhams/Olist-Ecommerce-Analysis/main/Sales%20Analysis.png" width="200"/><br/>
+        <b>Olist E-Commerce</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/techwithhams/Northwind-Sales-Project">
+        <img src="https://raw.githubusercontent.com/techwithhams/Northwind-Sales-Project/main/PowerBI_Screenshots/Sales%20Trends%20%26%20Order%20Behavior.png" width="200"/><br/>
+        <b>Northwind Sales</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/techwithhams/bikeshare-analysis">
+        <img src="https://raw.githubusercontent.com/techwithhams/bikeshare-analysis/main/example.png" width="200"/><br/>
+        <b>US Bikeshare CLI</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/techwithhams/no-show-appointments-analysis">
+        <img src="https://raw.githubusercontent.com/techwithhams/no-show-appointments-analysis/main/example.png" width="200"/><br/>
+        <b>No-Show EDA</b>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 ---
