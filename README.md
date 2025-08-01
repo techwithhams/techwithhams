@@ -3,11 +3,9 @@
 <h3 align="center">Hi there, I'm Hams 👋</h3>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FFD0&center=true&vCenter=true&repeat=true&width=700&lines=Data+Analyst+%F0%9F%93%8A;SQL+Enthusiast+%F0%9F%A7%AE;Python+Learner+%F0%9F%90%8D;Dashboard+Designer+%F0%9F%93%88;Excel+Specialist+%F0%9F%93%8A" 
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FFD0&vCenter=true&center=true&width=650&lines=Data+Analyst+📊;SQL+Enthusiast+🧮;Python+Learner+🐍;Dashboard+Designer+📈;Excel+Specialist+📊" alt="Typing SVG" />
 </p>
+
 
 
 ---
