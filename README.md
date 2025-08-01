@@ -3,9 +3,7 @@
 <h3 align="center">Hi there, I'm Hams 👋</h3>
 
 <p align="center">
-  <a href="https://github.com/techwithhams">
-    <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&pause=1000&speed=70&color=00FFD0&center=true&vCenter=true&repeat=true&width=500&lines=Data+Analyst+📊;SQL+Enthusiast+🧮;Python+Learner+🐍;Dashboard+Designer+📈;Excel+Specialist+📊" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFD0&center=true&vCenter=true&width=500&lines=Data+Analyst+📊;SQL+Enthusiast+🧮;Python+Learner+🐍;Dashboard+Designer+📈;Excel+Specialist+📊" alt="Typing SVG" />
 </p>
 
 ---
