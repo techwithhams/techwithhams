@@ -86,12 +86,10 @@ Now channeling my creativity and analytical thinking into the world of **data an
 
 ## ✨ Fun Facts
 
-I also love:
-- ☕ Coffee
-- 🐱 Cats
-- 📖 Books
-- 🎨 Painting
-- 💍 Making Jewelry
+<p align="center">
+  <b>I also love</b> ☕ <b>Coffee</b> &nbsp; 🐱 <b>Cats</b> &nbsp; 🎨 <b>Painting</b> &nbsp; 📖 <b>Books</b> &nbsp; 💍 <b>Jewelry making</b>
+</p>
+
 
 ---
 
