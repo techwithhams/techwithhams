@@ -84,8 +84,14 @@ Now channeling my creativity and analytical thinking into the world of **data an
 
 ---
 
-**I also love:**  
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1&color=00FFD0&center=true&vCenter=true&repeat=true&width=400&lines=☕+Coffee;🐱+Cats;📚+Books;🎨+Art;💍+Jewelry)
+<p align="center"><strong>I also love:</strong></p>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1&color=00FFD0&center=true&vCenter=true&repeat=true&width=400&lines=☕+Coffee;🐱+Cats;📚+Books;🎨+Art;💍+Jewelry" 
+    alt="Typing SVG"
+  />
+</p>
+
 
 
 ---
