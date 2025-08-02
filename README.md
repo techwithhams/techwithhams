@@ -52,7 +52,7 @@ Now channeling my creativity and analytical thinking into the world of **data an
       customer behavior, payments, deliveries, and product trends.
     </td>
     <td width="50%">
-      <img src="Images/northwind.jpg" width="400"><br>
+      <img src="Images/northwind.jpg" width="300"><br>
       <b>Northwind Sales Dashboard</b><br>
       Sales trends, product insights, and RFM segmentation using SQLite & Power BI.
     </td>
