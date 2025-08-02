@@ -91,11 +91,11 @@ After working in **HR**, **PR/Marketing**, and as a **freelance graphic designer
 
 ---
 
+### 📈 Currently Learning
+
 <table>
   <tr>
     <td align="left" width="65%">
-
-### 📈 Currently Learning
 
 - 🧠 Strengthening foundations in **statistics**, **probability**, and **machine learning** for smarter insights  
 - 🐍 Enhancing **Python** fluency for data wrangling, analysis, and scripting  
