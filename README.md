@@ -30,7 +30,7 @@ After working in **HR**, **PR/Marketing**, and as a **freelance graphic designer
 
 </td>
     <td align="center" width="40%">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Jydmx3dWNxYWFubmJobTNsdWQ1NWozdjhpaWgzcGw2em00ZTlpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12FBrUdUj7ZkuzyI8G/giphy.gif" width="230px" alt="Typing GIF" />
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Jydmx3dWNxYWFubmJobTNsdWQ1NWozdjhpaWgzcGw2em00ZTlpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12FBrUdUj7ZkuzyI8G/giphy.gif" width="500px" alt="Typing GIF" />
     </td>
   </tr>
 </table>
