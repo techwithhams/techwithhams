@@ -30,10 +30,10 @@ Now channeling my creativity and analytical thinking into the world of **data an
 
 <p align="center">
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="120" height="120"/>
-  <img src="https://www.svgrepo.com/show/354381/sqlite.svg" alt="SQLite" width="120" height="120"/>
   <img src="https://www.svgrepo.com/show/353949/jupyter.svg" alt="Jupyter" width="120" height="120"/>
   <img src="https://www.svgrepo.com/show/355133/mysql.svg" alt="MySQL" width="120" height="120"/>
   <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" width="120" height="120"/>
+  <img src="https://www.svgrepo.com/show/354381/sqlite.svg" alt="SQLite" width="120" height="120"/>
   <img src="https://www.svgrepo.com/show/303193/microsoft-excel-2013-logo.svg" alt="Excel" width="120" height="120"/>
 </p>
 
