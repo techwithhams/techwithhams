@@ -59,7 +59,7 @@ After working in **HR**, **PR/Marketing**, and as a **freelance graphic designer
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="Images/olist.jpg" width="300"><br>
+      <img src="Images/olist.jpg" width="400"><br>
       <b>Olist E-Commerce Sales Analysis</b><br>
       Marketplace insights using SQL & Power BI: customer behavior, payments, deliveries, and product trends.
     </td>
