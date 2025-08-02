@@ -52,19 +52,19 @@ Now channeling my creativity and analytical thinking into the world of **data an
       customer behavior, payments, deliveries, and product trends.
     </td>
     <td width="50%">
-      <img src="Images/northwind.jpg" width="150"><br>
+      <img src="Images/northwind.jpg" width="500"><br>
       <b>Northwind Sales Dashboard</b><br>
       Sales trends, product insights, and RFM segmentation using SQLite & Power BI.
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="Images/bikeshare.jpg" width="150"><br>
+      <img src="Images/bikeshare.jpg" width="500"><br>
       <b>US Bikeshare CLI App</b><br>
       Python CLI app to explore bikeshare trip data in 3 US cities using pandas.
     </td>
     <td width="50%">
-      <img src="Images/no_show.jpg" width="150"><br>
+      <img src="Images/no_show.jpg" width="500"><br>
       <b>No-show Appointments EDA</b><br>
       Exploratory data analysis using Python to identify trends in patient attendance.
     </td>
