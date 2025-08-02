@@ -43,37 +43,38 @@ Now channeling my creativity and analytical thinking into the world of **data an
 
 ## 📂 Portfolio Projects
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 16px;">
 
   <!-- Project 1 -->
-  <div style="width: 45%;">
-    <img src="Images/olist.jpg" alt="Olist Project" style="width: 100%; max-height: 160px; object-fit: cover; border-radius: 6px;" />
-    <h4 style="margin-bottom: 4px;">Olist E-Commerce Sales Analysis</h4>
-    <p style="margin-top: 0;">End-to-end marketplace analysis using SQL Server & Power BI — customer behavior, delivery, payments, and product trends.</p>
+  <div style="width: 48%;">
+    <img src="Images/olist.jpg" alt="Olist Project" style="width: 100%; max-height: 100px; object-fit: cover; border-radius: 6px;" />
+    <h4 style="margin: 8px 0 4px 0; font-size: 16px;">Olist E-Commerce Sales Analysis</h4>
+    <p style="margin: 0; font-size: 14px;">End-to-end marketplace insights using SQL & Power BI: customer behavior, payments, deliveries, and product trends.</p>
   </div>
 
   <!-- Project 2 -->
-  <div style="width: 45%;">
-    <img src="Images/northwind.jpg" alt="Northwind Project" style="width: 100%; max-height: 160px; object-fit: cover; border-radius: 6px;" />
-    <h4 style="margin-bottom: 4px;">Northwind Sales Dashboard</h4>
-    <p style="margin-top: 0;">Sales performance insights with RFM segmentation, product analysis, and seasonal trends using SQLite & Power BI.</p>
+  <div style="width: 48%;">
+    <img src="Images/northwind.jpg" alt="Northwind Project" style="width: 100%; max-height: 100px; object-fit: cover; border-radius: 6px;" />
+    <h4 style="margin: 8px 0 4px 0; font-size: 16px;">Northwind Sales Dashboard</h4>
+    <p style="margin: 0; font-size: 14px;">Sales trends, product insights, and RFM segmentation using SQLite & Power BI.</p>
   </div>
 
   <!-- Project 3 -->
-  <div style="width: 45%;">
-    <img src="Images/bikeshare.jpg" alt="Bikeshare Project" style="width: 100%; max-height: 160px; object-fit: cover; border-radius: 6px;" />
-    <h4 style="margin-bottom: 4px;">US Bikeshare CLI App</h4>
-    <p style="margin-top: 0;">Python-based CLI app for filtering and exploring bikeshare trip data in three US cities with pandas.</p>
+  <div style="width: 48%;">
+    <img src="Images/bikeshare.jpg" alt="Bikeshare Project" style="width: 100%; max-height: 100px; object-fit: cover; border-radius: 6px;" />
+    <h4 style="margin: 8px 0 4px 0; font-size: 16px;">US Bikeshare CLI App</h4>
+    <p style="margin: 0; font-size: 14px;">Python CLI app to explore bikeshare trip data in 3 US cities using pandas.</p>
   </div>
 
   <!-- Project 4 -->
-  <div style="width: 45%;">
-    <img src="Images/noshow.jpg" alt="No-show Project" style="width: 100%; max-height: 160px; object-fit: cover; border-radius: 6px;" />
-    <h4 style="margin-bottom: 4px;">No-show Appointments EDA</h4>
-    <p style="margin-top: 0;">Exploratory data analysis on medical attendance behavior in Brazil using Python, seaborn, and matplotlib.</p>
+  <div style="width: 48%;">
+    <img src="Images/noshow.jpg" alt="No-show Project" style="width: 100%; max-height: 100px; object-fit: cover; border-radius: 6px;" />
+    <h4 style="margin: 8px 0 4px 0; font-size: 16px;">No-show Appointments EDA</h4>
+    <p style="margin: 0; font-size: 14px;">Analyzed Brazilian healthcare data using Python to uncover attendance behavior patterns.</p>
   </div>
 
 </div>
+
 
 
 
