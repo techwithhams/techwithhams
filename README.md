@@ -108,7 +108,7 @@ After working in **HR**, **PR/Marketing**, and as a **freelance graphic designer
 
 </td>
     <td align="center" width="35%">
-      <img src="https://media4.giphy.com/media/25Itcrcuwkyq3ohubJ/giphy.gif" width="360px" alt="Learning GIF"/>
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdjczN6aTI5enQ4NnU4M3B1NjUxOHliOW9nMWcxemo3MXJzYTBmcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="360px" alt="Learning GIF"/>
     </td>
   </tr>
 </table>
