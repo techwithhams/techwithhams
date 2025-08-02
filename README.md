@@ -43,36 +43,40 @@ Now channeling my creativity and analytical thinking into the world of **data an
 
 ## 📂 Portfolio Projects
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="Images/olist.jpg" width="250"/><br/>
-      <a href="https://github.com/techwithhams/Olist-Ecommerce-Analysis"><b>Olist E-Commerce Sales Analysis</b></a>
-      <br/>
-      <sub>SQL + Power BI dashboard of sales, delivery, and customer behavior in Brazil.</sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="Images/northwind.jpg" width="250"/><br/>
-      <a href="https://github.com/techwithhams/Northwind-Sales-Project"><b>Northwind Sales Analysis</b></a>
-      <br/>
-      <sub>Sales trends, RFM segments, supplier & employee insights using SQLite + Power BI.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="Images/bikeshare.jpg" width="250"/><br/>
-      <a href="https://github.com/techwithhams/bikeshare-analysis"><b>US Bikeshare CLI App</b></a>
-      <br/>
-      <sub>Python CLI app for exploring bikeshare data in 3 US cities with pandas.</sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="Images/no_show.jpg" width="250"/><br/>
-      <a href="https://github.com/techwithhams/no-show-appointments-analysis"><b>No-Show Appointments EDA</b></a>
-      <br/>
-      <sub>Jupyter-based EDA of Brazilian medical no-shows to uncover attendance patterns.</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <strong>Olist E-Commerce Sales Analysis</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Northwind Sales Dashboard</strong>
+</p>
+
+<p align="center">
+  <img src="Images/olist.jpg" alt="Olist Project" width="300" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="Images/northwind.jpg" alt="Northwind Project" width="300" />
+</p>
+
+<p align="center">
+  <em>Brazilian e-commerce analysis using SQL Server + Power BI</em>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <em>Retail sales trends & segmentation with SQLite + Power BI</em>
+</p>
+<p align="center">
+  <strong>US Bikeshare CLI App</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>No-show Appointments EDA</strong>
+</p>
+
+<p align="center">
+  <img src="Images/bikeshare.jpg" alt="Bikeshare Project" width="300" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="Images/noshow.jpg" alt="No-show Project" width="300" />
+</p>
+
+<p align="center">
+  <em>Python CLI filtering app for trip insights in 3 US cities</em>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <em>Medical attendance patterns explored using Python & Seaborn</em>
+</p>
+
+  
 
 
 
