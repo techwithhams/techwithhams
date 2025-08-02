@@ -91,21 +91,25 @@ After working in **HR**, **PR/Marketing**, and as a **freelance graphic designer
 
 ---
 
-## 📈 Currently Learning
+<table>
+  <tr>
+    <td align="left" width="60%">
 
-- 🐍 Deeper Python for data analysis & automation  
-- 📊 Advanced DAX and visual storytelling in Power BI  
-- 📚 Statistics and machine learning foundations  
+      
+### 📈 Currently Learning
 
----
+- 🐍 Leveling up in **Python** for data analysis & automation  
+- 📊 Enhancing storytelling with **Power BI** dashboards & DAX  
+- 📚 Exploring **statistics**, **machine learning**, and model evaluation  
+- 🔄 Practicing project pipelines and real-world data workflows  
 
-<p align="center"><strong>I also love:</strong></p>
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1&color=00FFD0&center=true&vCenter=true&repeat=true&width=400&lines=☕+Coffee;🐱+Cats;📚+Books;🎨+Art;💍+Jewelry" 
-    alt="Typing SVG"
-  />
-</p>
+</td>
+    <td align="center" width="40%">
+      <img src="https://media4.giphy.com/media/25Itcrcuwkyq3ohubJ/giphy.gif" width="270px" alt="Learning GIF"/>
+    </td>
+  </tr>
+</table>
+
 
 
 
