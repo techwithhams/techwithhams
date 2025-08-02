@@ -46,7 +46,7 @@ Now channeling my creativity and analytical thinking into the world of **data an
 <table>
   <tr>
     <td width="50%">
-      <img src="Images/olist.jpg" width="150"><br>
+      <img src="Images/olist.jpg" width="200"><br>
       <b>Olist E-Commerce Sales Analysis</b><br>
       Marketplace insights using SQL & Power BI:<br> 
       customer behavior, payments, deliveries, and product trends.
