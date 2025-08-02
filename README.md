@@ -16,8 +16,8 @@
 
 <table>
   <tr>
-    <td width="60%">
-    
+    <td width="65%" valign="top">
+
 I'm Hams — a **multi-passionate, curious learner** who finds joy in uncovering patterns, solving problems, and telling stories through data.  
 After working in **HR**, **PR/Marketing**, and as a **freelance graphic designer**, I discovered that **data analytics** offers the perfect blend of creativity, logic, and impact.
 
@@ -25,15 +25,16 @@ After working in **HR**, **PR/Marketing**, and as a **freelance graphic designer
 - 💡 Self-taught and self-motivated — I learn best by doing and building  
 - 🧠 Drawn to projects that mix logic with empathy — like customer behavior, healthcare, or social trends  
 - 🎨 I bring a design eye, communication skills, and human-centered thinking from my past roles  
-- 📚 I’m currently deepening my skills in **Python**, **statistics**, and **machine learning foundations**  
-- 🌟 I also love coffee, cats, books, painting, and making jewelry  
+- 📚 Currently deepening my skills in **Python**, **statistics**, and **ML foundations**  
+- 🌟 Also love coffee, cats, books, painting, and making jewelry  
 
 </td>
-    <td align="center" width="40%">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Jydmx3dWNxYWFubmJobTNsdWQ1NWozdjhpaWgzcGw2em00ZTlpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12FBrUdUj7ZkuzyI8G/giphy.gif" width="500px" alt="Typing GIF" />
+    <td width="35%" align="center" valign="top">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Jydmx3dWNxYWFubmJobTNsdWQ1NWozdjhpaWgzcGw2em00ZTlpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12FBrUdUj7ZkuzyI8G/giphy.gif" width="260px" alt="Animated GIF"/>
     </td>
   </tr>
 </table>
+
 
 
 ---
