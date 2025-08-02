@@ -30,11 +30,11 @@ Now channeling my creativity and analytical thinking into the world of **data an
 
 <p align="center">
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="150" height="150"/>
-  <img src="https://www.svgrepo.com/show/354381/sqlite.svg" alt="SQLite" width="60" height="60"/>
-  <img src="https://www.svgrepo.com/show/353949/jupyter.svg" alt="Jupyter" width="60" height="60"/>
-  <img src="https://www.svgrepo.com/show/355133/mysql.svg" alt="MySQL" width="60" height="60"/>
-  <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" width="60" height="60"/>
-  <img src="https://www.svgrepo.com/show/303193/microsoft-excel-2013-logo.svg" alt="Excel" width="60" height="60"/>
+  <img src="https://www.svgrepo.com/show/354381/sqlite.svg" alt="SQLite" width="150" height="150"/>
+  <img src="https://www.svgrepo.com/show/353949/jupyter.svg" alt="Jupyter" width="150" height="150"/>
+  <img src="https://www.svgrepo.com/show/355133/mysql.svg" alt="MySQL" width="150" height="150"/>
+  <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" width="150" height="150"/>
+  <img src="https://www.svgrepo.com/show/303193/microsoft-excel-2013-logo.svg" alt="Excel" width="150" height="150"/>
 </p>
 
 
