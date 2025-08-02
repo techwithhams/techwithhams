@@ -43,38 +43,34 @@ Now channeling my creativity and analytical thinking into the world of **data an
 
 ## 📂 Portfolio Projects
 
-<p align="center">
-  <strong>Olist E-Commerce Sales Analysis</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Northwind Sales Dashboard</strong>
-</p>
+<div style="display: flex; gap: 40px; flex-wrap: wrap; align-items: flex-start;">
 
-<p align="center">
-  <img src="Images/olist.jpg" alt="Olist Project" width="300" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Images/northwind.jpg" alt="Northwind Project" width="300" />
-</p>
+  <div style="width: 300px;">
+    <img src="Images/olist.jpg" alt="Olist Project" style="width: 100%; border-radius: 6px;" />
+    <h3>Olist E-Commerce Sales Analysis</h3>
+    <p style="margin-top: -10px;">End-to-end marketplace analysis using SQL Server & Power BI — customer behavior, delivery, payments, and product trends.</p>
+  </div>
 
-<p align="center">
-  <em>Brazilian e-commerce analysis using SQL Server + Power BI</em>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <em>Retail sales trends & segmentation with SQLite + Power BI</em>
-</p>
-<p align="center">
-  <strong>US Bikeshare CLI App</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>No-show Appointments EDA</strong>
-</p>
+  <div style="width: 300px;">
+    <img src="Images/northwind.jpg" alt="Northwind Project" style="width: 100%; border-radius: 6px;" />
+    <h3>Northwind Sales Dashboard</h3>
+    <p style="margin-top: -10px;">Sales performance insights with RFM segmentation, product analysis, and seasonal trends using SQLite & Power BI.</p>
+  </div>
 
-<p align="center">
-  <img src="Images/bikeshare.jpg" alt="Bikeshare Project" width="300" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Images/noshow.jpg" alt="No-show Project" width="300" />
-</p>
+  <div style="width: 300px;">
+    <img src="Images/bikeshare.jpg" alt="Bikeshare Project" style="width: 100%; border-radius: 6px;" />
+    <h3>US Bikeshare CLI App</h3>
+    <p style="margin-top: -10px;">Python-based CLI app for filtering and exploring bikeshare trip data in three US cities with pandas.</p>
+  </div>
 
-<p align="center">
-  <em>Python CLI filtering app for trip insights in 3 US cities</em>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <em>Medical attendance patterns explored using Python & Seaborn</em>
-</p>
+  <div style="width: 300px;">
+    <img src="Images/no-show.jpg" alt="No-show Appointments Project" style="width: 100%; border-radius: 6px;" />
+    <h3>No-show Appointments EDA</h3>
+    <p style="margin-top: -10px;">Exploratory data analysis on medical attendance behavior in Brazil using Python, seaborn, and matplotlib.</p>
+  </div>
+
+</div>
+
 
   
 
