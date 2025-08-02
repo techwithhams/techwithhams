@@ -97,11 +97,13 @@ After working in **HR**, **PR/Marketing**, and as a **freelance graphic designer
 
 ### 📈 Currently Learning
 
-- 🧠 Building strong foundations in **statistics**, **probability**, and **machine learning**
-- 🐍 Improving **Python** for wrangling, analysis, and automation with **pandas**, **NumPy**, **seaborn**, etc.
-- 📊 Enhancing **Power BI** skills with **DAX**, interactivity, and dashboard storytelling
-- 🧪 Practicing end-to-end projects with clean code, **EDA**, and model workflows
-- 🚀 Exploring **ML evaluation**, **Streamlit/Flask** deployment, **web scraping**, and **A/B testing**
+- 🧠 Strengthening foundations in **statistics**, **probability**, and **machine learning** for smarter insights  
+- 🐍 Enhancing **Python** fluency for data wrangling, analysis, and scripting  
+- 🧰 Working with data science libraries like **pandas**, **NumPy**, **scikit-learn**, **matplotlib**, and **seaborn**  
+- 📊 Advancing **Power BI** storytelling with **DAX**, interactivity, and dashboard best practices  
+- 🧪 Practicing real-world problem solving through **portfolio projects**, exploratory analysis, and clean code  
+- 🚀 Exploring **machine learning workflows**, **model evaluation**, and basic **deployment tools** like **Streamlit** and **Flask**  
+- 🧹 Interested in **web scraping**, **SQL optimization**, and **experiment design (A/B testing)** for deeper data-driven decision-making
 
 </td>
     <td align="center" width="35%">
