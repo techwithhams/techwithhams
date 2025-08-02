@@ -41,33 +41,35 @@ Now channeling my creativity and analytical thinking into the world of **data an
 
 ---
 
-## 📂 Featured Projects
+## 📂 Portfolio Projects
 
 <table>
   <tr>
-    <td align="center">
-      <a href="https://github.com/techwithhams/Olist-Ecommerce-Analysis">
-        <img src="https://raw.githubusercontent.com/techwithhams/Olist-Ecommerce-Analysis/main/Sales%20Analysis.png" width="200"/><br/>
-        <b>Olist E-Commerce</b>
-      </a>
+    <td align="center" width="50%">
+      <img src="images/olist.jpg" width="250"/><br/>
+      <a href="https://github.com/techwithhams/Olist-Ecommerce-Analysis"><b>Olist E-Commerce Sales Analysis</b></a>
+      <br/>
+      <sub>SQL + Power BI dashboard of sales, delivery, and customer behavior in Brazil.</sub>
     </td>
-    <td align="center">
-      <a href="https://github.com/techwithhams/Northwind-Sales-Project">
-        <img src="https://raw.githubusercontent.com/techwithhams/Northwind-Sales-Project/main/PowerBI_Screenshots/Sales%20Trends%20%26%20Order%20Behavior.png" width="200"/><br/>
-        <b>Northwind Sales</b>
-      </a>
+    <td align="center" width="50%">
+      <img src="images/northwind.jpg" width="250"/><br/>
+      <a href="https://github.com/techwithhams/Northwind-Sales-Project"><b>Northwind Sales Analysis</b></a>
+      <br/>
+      <sub>Sales trends, RFM segments, supplier & employee insights using SQLite + Power BI.</sub>
     </td>
-    <td align="center">
-      <a href="https://github.com/techwithhams/bikeshare-analysis">
-        <img src="https://raw.githubusercontent.com/techwithhams/bikeshare-analysis/main/example.png" width="200"/><br/>
-        <b>US Bikeshare CLI</b>
-      </a>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="images/bikeshare.jpg" width="250"/><br/>
+      <a href="https://github.com/techwithhams/bikeshare-analysis"><b>US Bikeshare CLI App</b></a>
+      <br/>
+      <sub>Python CLI app for exploring bikeshare data in 3 US cities with pandas.</sub>
     </td>
-    <td align="center">
-      <a href="https://github.com/techwithhams/no-show-appointments-analysis">
-        <img src="https://raw.githubusercontent.com/techwithhams/no-show-appointments-analysis/main/example.png" width="200"/><br/>
-        <b>No-Show EDA</b>
-      </a>
+    <td align="center" width="50%">
+      <img src="images/no_show.jpg" width="250"/><br/>
+      <a href="https://github.com/techwithhams/no-show-appointments-analysis"><b>No-Show Appointments EDA</b></a>
+      <br/>
+      <sub>Jupyter-based EDA of Brazilian medical no-shows to uncover attendance patterns.</sub>
     </td>
   </tr>
 </table>
