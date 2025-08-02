@@ -58,31 +58,31 @@ After working in **HR**, **PR/Marketing**, and as a **freelance graphic designer
 
 <table>
   <tr>
-    <td width="50%">
-      <img src="Images/olist.jpg" width="500"><br>
+    <td width="50%" align="center">
+      <img src="Images/olist.jpg" width="300"><br>
       <b>Olist E-Commerce Sales Analysis</b><br>
-      Marketplace insights using SQL & Power BI:<br> 
-      customer behavior, payments, deliveries, and product trends.
+      Marketplace insights using SQL & Power BI: customer behavior, payments, deliveries, and product trends.
     </td>
-    <td width="50%">
-      <img src="Images/northwind.jpg" width="500"><br>
+    <td width="50%" align="center">
+      <img src="Images/northwind.jpg" width="300"><br>
       <b>Northwind Sales Dashboard</b><br>
       Sales trends, product insights, and RFM segmentation using SQLite & Power BI.
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <img src="Images/bikeshare.jpg" width="500"><br>
+    <td width="50%" align="center">
+      <img src="Images/bikeshare.jpg" width="300"><br>
       <b>US Bikeshare CLI App</b><br>
       Python CLI app to explore bikeshare trip data in 3 US cities using pandas.
     </td>
-    <td width="50%">
-      <img src="Images/no_show.jpg" width="500"><br>
+    <td width="50%" align="center">
+      <img src="Images/no_show.jpg" width="300"><br>
       <b>No-show Appointments EDA</b><br>
       Exploratory data analysis using Python to identify trends in patient attendance.
     </td>
   </tr>
 </table>
+
 
 
   
