@@ -43,54 +43,44 @@ Now channeling my creativity and analytical thinking into the world of **data an
 
 ## 📂 Portfolio Projects
 
-<!-- Projects Grid: 2 per row -->
+<!-- Projects in a 2x2 grid layout -->
 <div align="center">
 
-  <!-- Row 1 -->
-  <div style="display: flex; justify-content: center; gap: 50px; margin-bottom: 40px;">
-    
-    <!-- Project 1 -->
-    <div style="width: 45%; text-align: left;">
-      <img src="Images/olist.jpg" alt="Olist Project" width="100%" style="border-radius: 8px;" />
-      <h3 style="margin-top: 10px;"><strong>Olist E-Commerce Sales Analysis</strong></h3>
-      <p>End-to-end marketplace insights using SQL & Power BI: customer behavior, payments, deliveries, and product trends.</p>
-    </div>
+  <table>
+    <tr>
+      <!-- Project 1 -->
+      <td width="50%" valign="top" align="center">
+        <img src="Images/olist.jpg" alt="Olist Project" width="200px" style="border-radius: 8px;"><br>
+        <strong style="font-size: 18px;">Olist E-Commerce Sales Analysis</strong><br>
+        <p style="max-width: 300px;">Marketplace insights using SQL & Power BI: customer behavior, payments, deliveries, and product trends.</p>
+      </td>
 
-    <!-- Project 2 -->
-    <div style="width: 45%; text-align: left;">
-      <img src="Images/northwind.jpg" alt="Northwind Project" width="100%" style="border-radius: 8px;" />
-      <h3 style="margin-top: 10px;"><strong>Northwind Sales Dashboard</strong></h3>
-      <p>Sales trends, product insights, and RFM segmentation using SQLite & Power BI.</p>
-    </div>
-  </div>
+      <!-- Project 2 -->
+      <td width="50%" valign="top" align="center">
+        <img src="Images/northwind.jpg" alt="Northwind Project" width="200px" style="border-radius: 8px;"><br>
+        <strong style="font-size: 18px;">Northwind Sales Dashboard</strong><br>
+        <p style="max-width: 300px;">Sales trends, product insights, and RFM segmentation using SQLite & Power BI.</p>
+      </td>
+    </tr>
 
-  <!-- Row 2 -->
-  <div style="display: flex; justify-content: center; gap: 50px;">
-    
-    <!-- Project 3 -->
-    <div style="width: 45%; text-align: left;">
-      <img src="Images/bikeshare.jpg" alt="Bikeshare Project" width="100%" style="border-radius: 8px;" />
-      <h3 style="margin-top: 10px;"><strong>US Bikeshare CLI App</strong></h3>
-      <p>Python CLI app to explore bikeshare trip data in 3 US cities using pandas.</p>
-    </div>
+    <tr>
+      <!-- Project 3 -->
+      <td width="50%" valign="top" align="center">
+        <img src="Images/bikeshare.jpg" alt="Bikeshare Project" width="200px" style="border-radius: 8px;"><br>
+        <strong style="font-size: 18px;">US Bikeshare CLI App</strong><br>
+        <p style="max-width: 300px;">Python CLI app to explore bikeshare trip data in 3 US cities using pandas.</p>
+      </td>
 
-    <!-- Project 4 -->
-    <div style="width: 45%; text-align: left;">
-      <img src="Images/noshow.jpg" alt="No-show Appointments Project" width="100%" style="border-radius: 8px;" />
-      <h3 style="margin-top: 10px;"><strong>No-show Appointments EDA</strong></h3>
-      <p>Analyzed Brazilian healthcare data using Python to uncover patterns in patient attendance.</p>
-    </div>
+      <!-- Project 4 -->
+      <td width="50%" valign="top" align="center">
+        <img src="Images/noshow.jpg" alt="No-show Appointments Project" width="200px" style="border-radius: 8px;"><br>
+        <strong style="font-size: 18px;">No-show Appointments EDA</strong><br>
+        <p style="max-width: 300px;">Exploratory data analysis using Python to identify trends in patient attendance.</p>
+      </td>
+    </tr>
+  </table>
 
-  </div>
 </div>
-
-
-
-
-
-
-
-
 
   
 
