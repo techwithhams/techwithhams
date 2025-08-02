@@ -43,20 +43,19 @@ Now channeling my creativity and analytical thinking into the world of **data an
 
 ## 📂 Portfolio Projects
 
-<!-- Two-column project layout -->
 <table>
   <tr>
     <!-- Project 1 -->
     <td style="vertical-align: top; width: 50%;">
       <img src="Images/olist.jpg" alt="Olist Project" width="50%" style="border-radius: 6px;" />
-      <h3 style="margin-bottom: 4px;"><strong>Olist E-Commerce Sales Analysis</strong></h3>
+      <h3><strong>Olist E-Commerce Sales Analysis</strong></h3>
       <p>End-to-end marketplace insights using SQL & Power BI: customer behavior, payments, deliveries, and product trends.</p>
     </td>
 
     <!-- Project 2 -->
     <td style="vertical-align: top; width: 50%;">
       <img src="Images/northwind.jpg" alt="Northwind Project" width="50%" style="border-radius: 6px;" />
-      <h3 style="margin-bottom: 4px;"><strong>Northwind Sales Dashboard</strong></h3>
+      <h3><strong>Northwind Sales Dashboard</strong></h3>
       <p>Sales trends, product insights, and RFM segmentation using SQLite & Power BI.</p>
     </td>
   </tr>
@@ -65,18 +64,19 @@ Now channeling my creativity and analytical thinking into the world of **data an
     <!-- Project 3 -->
     <td style="vertical-align: top; width: 50%;">
       <img src="Images/bikeshare.jpg" alt="Bikeshare Project" width="50%" style="border-radius: 6px;" />
-      <h3 style="margin-bottom: 4px;"><strong>US Bikeshare CLI App</strong></h3>
+      <h3><strong>US Bikeshare CLI App</strong></h3>
       <p>Python CLI app to explore bikeshare trip data in 3 US cities using pandas.</p>
     </td>
 
     <!-- Project 4 -->
     <td style="vertical-align: top; width: 50%;">
-      <img src="Images/noshow.jpg" alt="No-show Project" width="50%" style="border-radius: 6px;" />
-      <h3 style="margin-bottom: 4px;"><strong>No-show Appointments EDA</strong></h3>
-      <p>Analyzed Brazilian healthcare data using Python to uncover attendance behavior patterns.</p>
+      <img src="Images/noshow.jpg" alt="No-show Appointments Project" width="50%" style="border-radius: 6px;" />
+      <h3><strong>No-show Appointments EDA</strong></h3>
+      <p>Analyzed Brazilian healthcare data using Python to uncover patterns in patient attendance.</p>
     </td>
   </tr>
 </table>
+
 
 
 
