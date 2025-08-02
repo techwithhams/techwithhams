@@ -42,13 +42,16 @@ After working in **HR**, **PR/Marketing**, and as a **freelance graphic designer
 ## 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="100" height="100"/>
-  <img src="https://www.svgrepo.com/show/353949/jupyter.svg" alt="Jupyter" width="100" height="100"/>
-  <img src="https://www.svgrepo.com/show/355133/mysql.svg" alt="MySQL" width="100" height="100"/>
-  <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" width="100" height="100"/>
-  <img src="https://www.svgrepo.com/show/354381/sqlite.svg" alt="SQLite" width="100" height="100"/>
-  <img src="https://www.svgrepo.com/show/303193/microsoft-excel-2013-logo.svg" alt="Excel" width="100" height="100"/>
+  <img src="Images/sql-server-icon.svg" width="40px" alt="MS SQL Server"/>
+  <img src="https://www.svgrepo.com/show/354381/sqlite.svg" width="40px" alt="SQLite"/>
+  <img src="https://www.svgrepo.com/show/355133/mysql.svg" width="40px" alt="MySQL"/>
+  <img src="https://www.svgrepo.com/show/452091/python.svg" width="40px" alt="Python"/>
+  <img src="Images/power-bi-icon.svg" width="40px" alt="Power BI"/>
+  <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" width="40px" alt="Tableau"/>
+  <img src="https://www.svgrepo.com/show/303193/microsoft-excel-2013-logo.svg" width="40px" alt="Excel"/>
+  <img src="https://www.svgrepo.com/show/353949/jupyter.svg" width="40px" alt="Jupyter Notebook"/>
 </p>
+
 
 
 
