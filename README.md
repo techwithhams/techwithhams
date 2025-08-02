@@ -95,7 +95,7 @@ After working in **HR**, **PR/Marketing**, and as a **freelance graphic designer
 
 <table>
   <tr>
-    <td align="left" width="75%">
+    <td align="left" width="65%">
 
 - 🧠 Strengthening foundations in **statistics**, **probability**, and **machine learning** for smarter insights  
 - 🐍 Enhancing **Python** fluency for data wrangling, analysis, and scripting  
@@ -106,11 +106,14 @@ After working in **HR**, **PR/Marketing**, and as a **freelance graphic designer
 - 🧹 Interested in **web scraping**, **SQL optimization**, and **experiment design (A/B testing)** for deeper data-driven decision-making
 
 </td>
-    <td align="center" width="25%">
-      <img src="https://media4.giphy.com/media/25Itcrcuwkyq3ohubJ/giphy.gif" width="280px" alt="Learning GIF"/>
+    <td align="center" width="35%">
+      <img src="https://media4.giphy.com/media/25Itcrcuwkyq3ohubJ/giphy.gif" width="360px" alt="Learning GIF"/>
     </td>
   </tr>
 </table>
+
+
+
 
 
 
