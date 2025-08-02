@@ -43,44 +43,34 @@ Now channeling my creativity and analytical thinking into the world of **data an
 
 ## 📂 Portfolio Projects
 
-<!-- Projects in a 2x2 grid layout -->
-<div align="center">
+<table>
+  <tr>
+    <td width="50%">
+      <img src="Images/olist.jpg" width="150"><br>
+      <b>Olist E-Commerce Sales Analysis</b><br>
+      Marketplace insights using SQL & Power BI:<br> 
+      customer behavior, payments, deliveries, and product trends.
+    </td>
+    <td width="50%">
+      <img src="Images/northwind.jpg" width="150"><br>
+      <b>Northwind Sales Dashboard</b><br>
+      Sales trends, product insights, and RFM segmentation using SQLite & Power BI.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="Images/bikeshare.jpg" width="150"><br>
+      <b>US Bikeshare CLI App</b><br>
+      Python CLI app to explore bikeshare trip data in 3 US cities using pandas.
+    </td>
+    <td width="50%">
+      <img src="Images/noshow.jpg" width="150"><br>
+      <b>No-show Appointments EDA</b><br>
+      Exploratory data analysis using Python to identify trends in patient attendance.
+    </td>
+  </tr>
+</table>
 
-  <table>
-    <tr>
-      <!-- Project 1 -->
-      <td width="50%" valign="top" align="center">
-        <img src="Images/olist.jpg" alt="Olist Project" width="200px" style="border-radius: 8px;"><br>
-        <strong style="font-size: 18px;">Olist E-Commerce Sales Analysis</strong><br>
-        <p style="max-width: 300px;">Marketplace insights using SQL & Power BI: customer behavior, payments, deliveries, and product trends.</p>
-      </td>
-
-      <!-- Project 2 -->
-      <td width="50%" valign="top" align="center">
-        <img src="Images/northwind.jpg" alt="Northwind Project" width="200px" style="border-radius: 8px;"><br>
-        <strong style="font-size: 18px;">Northwind Sales Dashboard</strong><br>
-        <p style="max-width: 300px;">Sales trends, product insights, and RFM segmentation using SQLite & Power BI.</p>
-      </td>
-    </tr>
-
-    <tr>
-      <!-- Project 3 -->
-      <td width="50%" valign="top" align="center">
-        <img src="Images/bikeshare.jpg" alt="Bikeshare Project" width="200px" style="border-radius: 8px;"><br>
-        <strong style="font-size: 18px;">US Bikeshare CLI App</strong><br>
-        <p style="max-width: 300px;">Python CLI app to explore bikeshare trip data in 3 US cities using pandas.</p>
-      </td>
-
-      <!-- Project 4 -->
-      <td width="50%" valign="top" align="center">
-        <img src="Images/noshow.jpg" alt="No-show Appointments Project" width="200px" style="border-radius: 8px;"><br>
-        <strong style="font-size: 18px;">No-show Appointments EDA</strong><br>
-        <p style="max-width: 300px;">Exploratory data analysis using Python to identify trends in patient attendance.</p>
-      </td>
-    </tr>
-  </table>
-
-</div>
 
   
 
