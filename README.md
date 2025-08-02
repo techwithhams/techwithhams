@@ -98,17 +98,20 @@ After working in **HR**, **PR/Marketing**, and as a **freelance graphic designer
 ### 📈 Currently Learning
 
 - 🧠 Strengthening foundations in **statistics**, **probability**, and **machine learning** for smarter insights  
-- 🐍 Enhancing Python fluency for analysis, scripting, and automation  
-- 🧰 Diving deeper into data science tools like **pandas**, **NumPy**, **scikit-learn**, **seaborn**, and **Jupyter Notebook**  
-- 📊 Elevating Power BI storytelling with **advanced DAX** and interactive dashboards  
-- 🧪 Tackling real-world problems using clean code, exploratory analysis, and effective visualizations  
+- 🐍 Enhancing **Python** fluency for data wrangling, analysis, and scripting  
+- 🧰 Working with data science libraries like **pandas**, **NumPy**, **scikit-learn**, **matplotlib**, and **seaborn**  
+- 📊 Advancing **Power BI** storytelling with **DAX**, interactivity, and dashboard best practices  
+- 🧪 Practicing real-world problem solving through **portfolio projects**, exploratory analysis, and clean code  
+- 🚀 Exploring **machine learning workflows**, **model evaluation**, and basic **deployment tools** like **Streamlit** and **Flask**  
+- 🧹 Interested in **web scraping**, **SQL optimization**, and **experiment design (A/B testing)** for deeper data-driven decision-making
 
 </td>
     <td align="center" width="40%">
-      <img src="https://media4.giphy.com/media/25Itcrcuwkyq3ohubJ/giphy.gif" width="400px" alt="Learning GIF"/>
+      <img src="https://media4.giphy.com/media/25Itcrcuwkyq3ohubJ/giphy.gif" width="360px" alt="Learning GIF"/>
     </td>
   </tr>
 </table>
+
 
 
 
