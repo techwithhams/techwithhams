@@ -29,7 +29,7 @@ Now channeling my creativity and analytical thinking into the world of **data an
 ## 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="60" height="60"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="100" height="100"/>
   <img src="https://www.svgrepo.com/show/354381/sqlite.svg" alt="SQLite" width="60" height="60"/>
   <img src="https://www.svgrepo.com/show/353949/jupyter.svg" alt="Jupyter" width="60" height="60"/>
   <img src="https://www.svgrepo.com/show/355133/mysql.svg" alt="MySQL" width="60" height="60"/>
