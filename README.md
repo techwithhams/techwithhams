@@ -95,13 +95,13 @@ After working in **HR**, **PR/Marketing**, and as a **freelance graphic designer
   <tr>
     <td align="left" width="60%">
 
-      
 ### 📈 Currently Learning
 
-- 🐍 Leveling up in **Python** for data analysis & automation  
-- 📊 Enhancing storytelling with **Power BI** dashboards & DAX  
-- 📚 Exploring **statistics**, **machine learning**, and model evaluation  
-- 🔄 Practicing project pipelines and real-world data workflows  
+- 🧠 Strengthening foundations in **statistics**, **probability**, and **machine learning** for smarter insights  
+- 🐍 Enhancing Python fluency for analysis, scripting, and automation  
+- 🧰 Diving deeper into data science tools like **pandas**, **NumPy**, **scikit-learn**, **seaborn**, and **Jupyter Notebook**  
+- 📊 Elevating Power BI storytelling with **advanced DAX** and interactive dashboards  
+- 🧪 Tackling real-world problems using clean code, exploratory analysis, and effective visualizations  
 
 </td>
     <td align="center" width="40%">
@@ -109,6 +109,7 @@ After working in **HR**, **PR/Marketing**, and as a **freelance graphic designer
     </td>
   </tr>
 </table>
+
 
 
 
