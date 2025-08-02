@@ -64,7 +64,7 @@ Now channeling my creativity and analytical thinking into the world of **data an
       Python CLI app to explore bikeshare trip data in 3 US cities using pandas.
     </td>
     <td width="50%">
-      <img src="Images/noshow.jpg" width="150"><br>
+      <img src="Images/no_show.jpg" width="150"><br>
       <b>No-show Appointments EDA</b><br>
       Exploratory data analysis using Python to identify trends in patient attendance.
     </td>
