@@ -14,15 +14,27 @@
 
 ## 🧭 About Me
 
-I'm Hams — a **multi-passionate, curious learner** with a love for storytelling through data.  
-Previously worked in **HR**, **Marketing/PR**, and as a **freelance graphic designer**.  
-Now channeling my creativity and analytical thinking into the world of **data analytics**.
+<table>
+  <tr>
+    <td width="60%">
+    
+I'm Hams — a **multi-passionate, curious learner** who finds joy in uncovering patterns, solving problems, and telling stories through data.  
+After working in **HR**, **PR/Marketing**, and as a **freelance graphic designer**, I discovered that **data analytics** offers the perfect blend of creativity, logic, and impact.
 
-- 🎓 Self-taught analyst building a strong portfolio
-- 🎯 Aspiring **Data Scientist** with interest in problem-solving and business strategy
-- 🧠 Passionate about **psychology**, **philosophy**, and **creativity**
-- 🎨 I also love drawing, painting, coffee, cats, books, and making jewelry  
-- 📍 Based in Egypt | Remote & global opportunities welcome
+- 🎯 Aspiring **Data Scientist** with a love for analysis, strategy & insight  
+- 💡 Self-taught and self-motivated — I learn best by doing and building  
+- 🧠 Drawn to projects that mix logic with empathy — like customer behavior, healthcare, or social trends  
+- 🎨 I bring a design eye, communication skills, and human-centered thinking from my past roles  
+- 📚 I’m currently deepening my skills in **Python**, **statistics**, and **machine learning foundations**  
+- 🌟 I also love coffee, cats, books, painting, and making jewelry  
+
+</td>
+    <td align="center" width="40%">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Jydmx3dWNxYWFubmJobTNsdWQ1NWozdjhpaWgzcGw2em00ZTlpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12FBrUdUj7ZkuzyI8G/giphy.gif" width="230px" alt="Typing GIF" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
