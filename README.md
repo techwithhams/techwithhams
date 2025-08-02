@@ -42,7 +42,7 @@ After working in **HR**, **PR/Marketing**, and as a **freelance graphic designer
 ## 🧰 Languages & Tools
 
 <p align="center">
-  <img src="Images/sql-server-icon.svg" width="40px" alt="MS SQL Server"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="60" height="60"/>
   <img src="https://www.svgrepo.com/show/354381/sqlite.svg" width="40px" alt="SQLite"/>
   <img src="https://www.svgrepo.com/show/355133/mysql.svg" width="40px" alt="MySQL"/>
   <img src="https://www.svgrepo.com/show/452091/python.svg" width="40px" alt="Python"/>
