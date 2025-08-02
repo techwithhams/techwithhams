@@ -105,7 +105,7 @@ After working in **HR**, **PR/Marketing**, and as a **freelance graphic designer
 
 </td>
     <td align="center" width="40%">
-      <img src="https://media4.giphy.com/media/25Itcrcuwkyq3ohubJ/giphy.gif" width="270px" alt="Learning GIF"/>
+      <img src="https://media4.giphy.com/media/25Itcrcuwkyq3ohubJ/giphy.gif" width="400px" alt="Learning GIF"/>
     </td>
   </tr>
 </table>
