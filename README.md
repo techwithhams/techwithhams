@@ -46,13 +46,13 @@ Now channeling my creativity and analytical thinking into the world of **data an
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="images/olist.jpg" width="250"/><br/>
+      <img src="Images/olist.jpg" width="250"/><br/>
       <a href="https://github.com/techwithhams/Olist-Ecommerce-Analysis"><b>Olist E-Commerce Sales Analysis</b></a>
       <br/>
       <sub>SQL + Power BI dashboard of sales, delivery, and customer behavior in Brazil.</sub>
     </td>
     <td align="center" width="50%">
-      <img src="images/northwind.jpg" width="250"/><br/>
+      <img src="Images/northwind.jpg" width="250"/><br/>
       <a href="https://github.com/techwithhams/Northwind-Sales-Project"><b>Northwind Sales Analysis</b></a>
       <br/>
       <sub>Sales trends, RFM segments, supplier & employee insights using SQLite + Power BI.</sub>
@@ -60,13 +60,13 @@ Now channeling my creativity and analytical thinking into the world of **data an
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="images/bikeshare.jpg" width="250"/><br/>
+      <img src="Images/bikeshare.jpg" width="250"/><br/>
       <a href="https://github.com/techwithhams/bikeshare-analysis"><b>US Bikeshare CLI App</b></a>
       <br/>
       <sub>Python CLI app for exploring bikeshare data in 3 US cities with pandas.</sub>
     </td>
     <td align="center" width="50%">
-      <img src="images/no_show.jpg" width="250"/><br/>
+      <img src="Images/no_show.jpg" width="250"/><br/>
       <a href="https://github.com/techwithhams/no-show-appointments-analysis"><b>No-Show Appointments EDA</b></a>
       <br/>
       <sub>Jupyter-based EDA of Brazilian medical no-shows to uncover attendance patterns.</sub>
