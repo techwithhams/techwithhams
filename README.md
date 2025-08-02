@@ -47,7 +47,7 @@ Now channeling my creativity and analytical thinking into the world of **data an
 
   <!-- Project 1 -->
   <div style="width: 48%;">
-    <img src="Images/olist.jpg" alt="Olist Project" style="width: 100%; max-height: 80px; object-fit: cover; border-radius: 6px;" />
+    <img src="Images/olist.jpg" alt="Olist Project" style="width: 50%; max-height: 80px; object-fit: cover; border-radius: 6px;" />
     <h3 style="margin: 10px 0 6px 0; font-size: 18px; font-weight: 700;">Olist E-Commerce Sales Analysis</h3>
     <p style="margin: 0; font-size: 14px;">End-to-end marketplace insights using SQL & Power BI: customer behavior, payments, deliveries, and product trends.</p>
   </div>
