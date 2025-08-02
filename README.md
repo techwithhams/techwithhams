@@ -85,9 +85,11 @@ Now channeling my creativity and analytical thinking into the world of **data an
 ---
 
 <p align="center">
+  <strong style="font-size: 24px;">I also love </strong>
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=100&color=00FFD0&center=true&vCenter=true&repeat=true&width=700&lines=I+also+love+☕+Coffee;I+also+love+🐱+Cats;I+also+love+📚+Books;I+also+love+🎨+Art;I+also+love+💍+Jewelry" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1&color=00FFD0&center=false&vCenter=true&repeat=true&width=300&lines=☕+Coffee;🐱+Cats;📚+Books;🎨+Art;💍+Jewelry" 
     alt="Typing SVG"
+    style="vertical-align: middle;"
   />
 </p>
 
