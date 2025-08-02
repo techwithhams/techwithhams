@@ -43,37 +43,37 @@ Now channeling my creativity and analytical thinking into the world of **data an
 
 ## 📂 Portfolio Projects
 
+<!-- Project Grid (2 per row) -->
 <div align="center">
 
-  <!-- Project 1 -->
-  <div style="display: inline-block; width: 45%; vertical-align: top; margin: 10px;">
-    <img src="Images/olist.jpg" alt="Olist Project" style="width: 100%; max-height: 80px; object-fit: cover; border-radius: 6px;" />
-    <h3 style="font-size: 18px; font-weight: bold; text-align: left;">Olist E-Commerce Sales Analysis</h3>
-    <p style="font-size: 14px; text-align: left;">End-to-end marketplace insights using SQL & Power BI: customer behavior, payments, deliveries, and product trends.</p>
+  <!-- Row 1 -->
+  <div style="display: inline-block; width: 48%; margin: 1%;">
+    <img src="Images/olist.jpg" alt="Olist Project" style="width: 50%; border-radius: 6px; display: block; margin-bottom: 8px;" />
+    <h3 align="left" style="font-size: 18px;"><strong>Olist E-Commerce Sales Analysis</strong></h3>
+    <p align="left">End-to-end marketplace insights using SQL & Power BI: customer behavior, payments, deliveries, and product trends.</p>
   </div>
 
-  <!-- Project 2 -->
-  <div style="display: inline-block; width: 45%; vertical-align: top; margin: 10px;">
-    <img src="Images/northwind.jpg" alt="Northwind Project" style="width: 100%; max-height: 80px; object-fit: cover; border-radius: 6px;" />
-    <h3 style="font-size: 18px; font-weight: bold; text-align: left;">Northwind Sales Dashboard</h3>
-    <p style="font-size: 14px; text-align: left;">Sales trends, product insights, and RFM segmentation using SQLite & Power BI.</p>
+  <div style="display: inline-block; width: 48%; margin: 1%;">
+    <img src="Images/northwind.jpg" alt="Northwind Project" style="width: 50%; border-radius: 6px; display: block; margin-bottom: 8px;" />
+    <h3 align="left" style="font-size: 18px;"><strong>Northwind Sales Dashboard</strong></h3>
+    <p align="left">Sales trends, product insights, and RFM segmentation using SQLite & Power BI.</p>
   </div>
 
-  <!-- Project 3 -->
-  <div style="display: inline-block; width: 45%; vertical-align: top; margin: 10px;">
-    <img src="Images/bikeshare.jpg" alt="Bikeshare Project" style="width: 100%; max-height: 80px; object-fit: cover; border-radius: 6px;" />
-    <h3 style="font-size: 18px; font-weight: bold; text-align: left;">US Bikeshare CLI App</h3>
-    <p style="font-size: 14px; text-align: left;">Python CLI app to explore bikeshare trip data in 3 US cities using pandas.</p>
+  <!-- Row 2 -->
+  <div style="display: inline-block; width: 48%; margin: 1%;">
+    <img src="Images/bikeshare.jpg" alt="Bikeshare Project" style="width: 50%; border-radius: 6px; display: block; margin-bottom: 8px;" />
+    <h3 align="left" style="font-size: 18px;"><strong>US Bikeshare CLI App</strong></h3>
+    <p align="left">Python CLI app to explore bikeshare trip data in 3 US cities using pandas.</p>
   </div>
 
-  <!-- Project 4 -->
-  <div style="display: inline-block; width: 45%; vertical-align: top; margin: 10px;">
-    <img src="Images/noshow.jpg" alt="No-show Project" style="width: 100%; max-height: 80px; object-fit: cover; border-radius: 6px;" />
-    <h3 style="font-size: 18px; font-weight: bold; text-align: left;">No-show Appointments EDA</h3>
-    <p style="font-size: 14px; text-align: left;">Analyzed Brazilian healthcare data using Python to uncover attendance behavior patterns.</p>
+  <div style="display: inline-block; width: 48%; margin: 1%;">
+    <img src="Images/noshow.jpg" alt="No-show Project" style="width: 50%; border-radius: 6px; display: block; margin-bottom: 8px;" />
+    <h3 align="left" style="font-size: 18px;"><strong>No-show Appointments EDA</strong></h3>
+    <p align="left">Analyzed Brazilian healthcare data using Python to uncover attendance behavior patterns.</p>
   </div>
 
 </div>
+
 
 
 
