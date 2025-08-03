@@ -50,7 +50,7 @@ After working in **HR**, **PR/Marketing**, and as a **freelance graphic designer
   <img src="https://www.svgrepo.com/show/353949/jupyter.svg" alt="Jupyter Notebook" width="100" height="100"/>
   <img src="https://www.svgrepo.com/show/354381/sqlite.svg" alt="SQLite" width="110" height="110"/>
   <img src="https://www.svgrepo.com/show/303193/microsoft-excel-2013-logo.svg" alt="Excel" width="100" height="100"/>
-  <img src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="PostgreSQL" width="60" height="60"/>
+  <img src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="PostgreSQL" width="100" height="100"/>
 
 </p>
 
