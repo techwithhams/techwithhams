@@ -140,5 +140,8 @@ After working in **HR**, **PR/Marketing**, and as a **freelance graphic designer
   </tr>
 </table>
 
+---
+
+✨ Thanks for stopping by — happy analyzing! 🚀
 
 
