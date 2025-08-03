@@ -66,6 +66,53 @@ After working in **HR**, **PR/Marketing**, and as a **freelance graphic designer
 
 
 ---
+
+### 📂 Portfolio Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/techwithhams/Olist-Ecommerce-Analysis">
+        <img src="Images/olist.jpg" width="500px" alt="Olist Project"/>
+      </a><br>
+      <a href="https://github.com/techwithhams/Olist-Ecommerce-Analysis">
+        <b>Olist E-Commerce Sales Analysis</b>
+      </a><br>
+      Marketplace insights using SQL & Power BI:<br>
+      customer behavior, payments, deliveries, and product trends.
+    </td>
+    <td width="50%">
+      <a href="https://github.com/techwithhams/Northwind-Sales-Analysis">
+        <img src="Images/northwind.jpg" width="500px" alt="Northwind Project"/>
+      </a><br>
+      <a href="https://github.com/techwithhams/Northwind-Sales-Analysis">
+        <b>Northwind Sales Dashboard</b>
+      </a><br>
+      Sales trends, product insights, and RFM segmentation using SQLite & Power BI.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/techwithhams/US-Bikeshare-Exploration">
+        <img src="Images/bikeshare.jpg" width="500px" alt="Bikeshare Project"/>
+      </a><br>
+      <a href="https://github.com/techwithhams/US-Bikeshare-Exploration">
+        <b>US Bikeshare CLI App</b>
+      </a><br>
+      Python CLI app to explore bikeshare trip data in 3 US cities using pandas.
+    </td>
+    <td width="50%">
+      <a href="https://github.com/techwithhams/No-show-Appointments-EDA">
+        <img src="Images/no_show.jpg" width="500px" alt="No-show Appointments Project"/>
+      </a><br>
+      <a href="https://github.com/techwithhams/No-show-Appointments-EDA">
+        <b>No-show Appointments EDA</b>
+      </a><br>
+      Exploratory data analysis using Python to identify trends in patient attendance.
+    </td>
+  </tr>
+</table>
+
 ### 📂 Portfolio Projects
 
 <table>
