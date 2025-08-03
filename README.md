@@ -51,11 +51,11 @@ After working in **HR**, **PR/Marketing**, and as a **freelance graphic designer
   <img src="https://www.svgrepo.com/show/354381/sqlite.svg" alt="SQLite" width="110" height="110"/>
   <img src="https://www.svgrepo.com/show/303193/microsoft-excel-2013-logo.svg" alt="Excel" width="100" height="100"/>
   <img src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="PostgreSQL" width="100" height="100"/>
-  <img src="https://www.svgrepo.com/show/354119/pandas.svg" alt="Pandas" width="80" height="80"/>
-  <img src="https://www.svgrepo.com/show/354111/numpy.svg" alt="NumPy" width="80" height="80"/>
-  <img src="https://www.svgrepo.com/show/354243/scikit-learn.svg" alt="Scikit-learn" width="80" height="80"/>
-  <img src="https://www.svgrepo.com/show/354014/matplotlib.svg" alt="Matplotlib" width="80" height="80"/>
-  <img src="https://www.svgrepo.com/show/374171/seaborn.svg" alt="Seaborn" width="80" height="80"/>
+  <img src="Images/Pandas.svg" alt="Pandas" width="80" height="80"/>
+  <img src="https://www.svgrepo.com/show/354127/numpy.svg" alt="NumPy" width="80" height="80"/>
+  <img src="Images/scikit-learn.svg" alt="Scikit-learn" width="80" height="80"/>
+  <img src="Images/Matplotlib.svg" alt="Matplotlib" width="80" height="80"/>
+
 </p>
 
 
