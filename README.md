@@ -48,7 +48,7 @@ After working in **HR**, **PR/Marketing**, and as a **freelance graphic designer
 <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" width="80" height="80"/>
 <img src="Images/power-bi-icon.svg" alt="Power BI" width="80" height="80"/>
 <img src="https://www.svgrepo.com/show/353949/jupyter.svg" alt="Jupyter Notebook" width="80" height="80"/>
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="80" height="80"/>
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="90" height="90"/>
 <img src="https://www.svgrepo.com/show/303193/microsoft-excel-2013-logo.svg" alt="Excel" width="80" height="80"/>
 <img src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="PostgreSQL" width="80" height="80"/>
 <img src="Images/Pandas.svg" alt="Pandas" width="80" height="80"/>
