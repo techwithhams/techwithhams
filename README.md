@@ -42,7 +42,7 @@ After working in **HR**, **PR/Marketing**, and as a **freelance graphic designer
 ## 🧰 Languages & Tools
 
 <p align="center">
-<img src="https://www.svgrepo.com/show/354381/sqlite.svg" alt="SQLite" width="90" height="90"/>
+<img src="https://www.svgrepo.com/show/354381/sqlite.svg" alt="SQLite" width="100" height="100"/>
 <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="Tableau" width="90" height="90"/>
 <img src="https://www.svgrepo.com/show/355133/mysql.svg" alt="MySQL" width="90" height="90"/>
 <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" width="90" height="90"/>
