@@ -1,4 +1,4 @@
-# 🛎️ Welcome to My GitHub Profile!
+# 🚀 Welcome to My GitHub Profile!
 
 <h3 align="center">Hi there, I'm Hams 👋</h3>
 
