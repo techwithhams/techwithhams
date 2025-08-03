@@ -128,20 +128,3 @@ After working in **HR**, **PR/Marketing**, and as a **freelance graphic designer
 
 
 
-
-
-
-
-
-
-
-
----
-
-## 📫 Let's Connect
-
-- GitHub: [@techwithhams](https://github.com/techwithhams)  
-- LinkedIn: *(Add your LinkedIn URL)*  
-- Portfolio: *(Optional, future link)*  
-
-
