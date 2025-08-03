@@ -55,7 +55,7 @@ After working in **HR**, **PR/Marketing**, and as a **freelance graphic designer
   <img src="https://www.svgrepo.com/show/354127/numpy.svg" alt="NumPy" width="80" height="80"/>
   <img src="Images/scikit-learn.svg" alt="Scikit-learn" width="80" height="80"/>
   <img src="Images/Matplotlib.svg" alt="Matplotlib" width="80" height="80"/>
-  <img src ="https://www.svgrepo.com/svg/452129/vs-code.svg" alt= "VS Code" width ="80" height="80">
+  <img src="https://www.svgrepo.com/svg/452129/vs-code.svg" alt="VS Code" width ="80" height="80"/>
 
 </p>
 
