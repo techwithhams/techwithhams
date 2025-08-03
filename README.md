@@ -42,20 +42,21 @@ After working in **HR**, **PR/Marketing**, and as a **freelance graphic designer
 ## 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="110" height="110"/>
-  <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="Tableau" width="100" height="100"/>
-  <img src="https://www.svgrepo.com/show/355133/mysql.svg" alt="MySQL" width="100" height="100"/>
-  <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" width="100" height="100"/>
-  <img src="Images/power-bi-icon.svg" alt="Power BI" width="100" height="100"/>
-  <img src="https://www.svgrepo.com/show/353949/jupyter.svg" alt="Jupyter Notebook" width="100" height="100"/>
-  <img src="https://www.svgrepo.com/show/354381/sqlite.svg" alt="SQLite" width="110" height="110"/>
-  <img src="https://www.svgrepo.com/show/303193/microsoft-excel-2013-logo.svg" alt="Excel" width="100" height="100"/>
-  <img src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="PostgreSQL" width="100" height="100"/>
-  <img src="Images/Pandas.svg" alt="Pandas" width="80" height="80"/>
-  <img src="https://www.svgrepo.com/show/354127/numpy.svg" alt="NumPy" width="80" height="80"/>
-  <img src="Images/scikit-learn.svg" alt="Scikit-learn" width="80" height="80"/>
-  <img src="Images/Matplotlib.svg" alt="Matplotlib" width="80" height="80"/>
-  <img src="https://www.svgrepo.com/download/452129/vs-code.svg" alt="VS Code" width="80" height="80"/>
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="90" height="90"/>
+<img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="Tableau" width="90" height="90"/>
+<img src="https://www.svgrepo.com/show/355133/mysql.svg" alt="MySQL" width="90" height="90"/>
+<img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" width="90" height="90"/>
+<img src="Images/power-bi-icon.svg" alt="Power BI" width="90" height="90"/>
+<img src="https://www.svgrepo.com/show/353949/jupyter.svg" alt="Jupyter Notebook" width="90" height="90"/>
+<img src="https://www.svgrepo.com/show/354381/sqlite.svg" alt="SQLite" width="90" height="90"/>
+<img src="https://www.svgrepo.com/show/303193/microsoft-excel-2013-logo.svg" alt="Excel" width="90" height="90"/>
+<img src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="PostgreSQL" width="90" height="90"/>
+<img src="Images/Pandas.svg" alt="Pandas" width="90" height="90"/>
+<img src="https://www.svgrepo.com/show/354127/numpy.svg" alt="NumPy" width="90" height="90"/>
+<img src="Images/scikit-learn.svg" alt="Scikit-learn" width="90" height="90"/>
+<img src="Images/Matplotlib.svg" alt="Matplotlib" width="90" height="90"/>
+<img src="https://www.svgrepo.com/download/452129/vs-code.svg" alt="VS Code" width="90" height="90"/>
+
 
 </p>
 
