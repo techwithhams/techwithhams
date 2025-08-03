@@ -66,6 +66,44 @@ After working in **HR**, **PR/Marketing**, and as a **freelance graphic designer
 
 
 ---
+### 📂 Portfolio Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/techwithhams/Olist-Ecommerce-Analysis">
+        <img src="Images/olist.jpg" width="500px" alt="Olist Project"/>
+      </a><br>
+      <b>Olist E-Commerce Sales Analysis</b><br>
+      Marketplace insights using SQL & Power BI:<br>
+      customer behavior, payments, deliveries, and product trends.
+    </td>
+    <td width="50%">
+      <a href="https://github.com/techwithhams/Northwind-Sales-Analysis">
+        <img src="Images/northwind.jpg" width="500px" alt="Northwind Project"/>
+      </a><br>
+      <b>Northwind Sales Dashboard</b><br>
+      Sales trends, product insights, and RFM segmentation using SQLite & Power BI.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/techwithhams/US-Bikeshare-Exploration">
+        <img src="Images/bikeshare.jpg" width="500px" alt="Bikeshare Project"/>
+      </a><br>
+      <b>US Bikeshare CLI App</b><br>
+      Python CLI app to explore bikeshare trip data in 3 US cities using pandas.
+    </td>
+    <td width="50%">
+      <a href="https://github.com/techwithhams/No-show-Appointments-EDA">
+        <img src="Images/no_show.jpg" width="500px" alt="No-show Appointments Project"/>
+      </a><br>
+      <b>No-show Appointments EDA</b><br>
+      Exploratory data analysis using Python to identify trends in patient attendance.
+    </td>
+  </tr>
+</table>
+
 
 ## 📂 Portfolio Projects
 
